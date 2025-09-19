@@ -9,7 +9,7 @@
 // Ele introduz ordenação com critérios e busca binária para otimizar a gestão dos recursos.
 
 int main() {
-    
+    printf("atividade novato\n"); 
 
     return 0;
 }
